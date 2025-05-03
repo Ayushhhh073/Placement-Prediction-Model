@@ -92,6 +92,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 - **GitHub:** [Ayushhhh073](https://github.com/Ayushhhh073)
 - **Email:** ayushhh073@gmail.com
-- **LinkedIn:** [Ayush Sarode](https://linkedin.com/in/Ayush sarode)
+- **LinkedIn:** [Ayush Sarode](https://linkedin.com/in/ayush-sarode)
 
 > *Empowering student careers through the power of data science.*
