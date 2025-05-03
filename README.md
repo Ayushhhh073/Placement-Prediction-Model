@@ -90,8 +90,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ##  Contact
 
-- **GitHub:** [yourusername](https://github.com/yourusername)
-- **Email:** youremail@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **GitHub:** [Ayushhhh073](https://github.com/Ayushhhh073)
+- **Email:** ayushhh073@gmail.com
+- **LinkedIn:** [Ayush Sarode](https://linkedin.com/in/Ayush sarode)
 
 > *Empowering student careers through the power of data science.*
