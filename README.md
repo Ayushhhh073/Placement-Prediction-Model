@@ -33,7 +33,7 @@ student-placement-prediction/
 | Tool/Library        | Purpose                        |
 |---------------------|--------------------------------|
 | Python              | Core programming language      |
-| Jupyter Notebook    | Interactive development        |
+| Google colab        | Interactive development        |
 | Pandas, NumPy       | Data manipulation & computation |
 | Seaborn, Matplotlib | Visualization                  |
 | Scikit-learn        | Machine learning models        |
